@@ -29,8 +29,9 @@ import {
   DropdownMenuLabel,
   DropdownMenuSeparator,
   DropdownMenuTrigger,
-} from '../ui/dropdown-menu';
-import { Logo } from '../icons';
+} from '@/components/ui/dropdown-menu';
+import { Logo } from '@/components/icons';
+import { Badge } from '@/components/ui/badge';
 
 export default function FacultyLayout({
   children,

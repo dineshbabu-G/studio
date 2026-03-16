@@ -31,8 +31,8 @@ import {
   DropdownMenuLabel,
   DropdownMenuSeparator,
   DropdownMenuTrigger,
-} from '../ui/dropdown-menu';
-import { Logo } from '../icons';
+} from '@/components/ui/dropdown-menu';
+import { Logo } from '@/components/icons';
 
 export default function DashboardLayout({
   children,

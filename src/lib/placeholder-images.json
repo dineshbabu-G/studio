@@ -1,3 +1,16 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "landing-hero",
+      "description": "A diverse group of students collaborating on a project in a modern library.",
+      "imageUrl": "https://picsum.photos/seed/1/600/400",
+      "imageHint": "students collaborating"
+    },
+    {
+      "id": "portfolio-avatar",
+      "description": "A professional headshot of a smiling student.",
+      "imageUrl": "https://picsum.photos/seed/2/200/200",
+      "imageHint": "student headshot"
+    }
+  ]
 }
